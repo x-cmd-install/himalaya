@@ -1,0 +1,58 @@
+about:
+  description: CLI to manage emails
+  license: Apache-2.0
+  homepage: https://pimalaya.org
+  head: bbdfb09
+  archived: false
+  latestVersion: v2.1.0
+  collectedAt: 2026-09-03T04:18:22Z
+timeline:
+  created: 2020-12-23
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-16
+popularity:
+  star: 7171
+  watcher: 42
+  fork: 232
+  release: 45
+  contributor: 61
+  pullRequest: 43
+  issue: 515
+language:
+  Rust: 1039458
+  Nix: 2955
+  Shell: 1363
+totalLine: 1043776
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 7
+    openIssue: 2
+    commit: 39
+  last90d:
+    since: 2026-06-05
+    release: 2
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 32
+    openIssue: 3
+    commit: 108
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 72
+    openIssue: 4
+    commit: 175
+  last360d:
+    since: 2025-09-08
+    release: 3
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 117
+    openIssue: 4
+    commit: 243
