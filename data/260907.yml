@@ -5,13 +5,13 @@ about:
   head: bbdfb09
   archived: false
   latestVersion: "v2.1.0"
-  collectedAt: 2026-09-07T04:55:48Z
+  collectedAt: 2026-09-07T19:30:57Z
 timeline:
   created: 2020-12-23
   lastCommit: 2026-08-29
   lastRelease: 2026-08-16
 popularity:
-  star: 7200
+  star: 7204
   watcher: 43
   fork: 234
   release: 45
@@ -81,7 +81,7 @@ total:
   commit: 1178
 ---
 path: /home/runner/.x-repo/github.com/pimalaya/himalaya
-collectedAt: 2026-09-07T04:55:49Z
+collectedAt: 2026-09-07T19:31:02Z
 loc:
   Rust:
     code: 22988
@@ -122,7 +122,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:50+00:00
+  collectedAt: 2026-09-07T19:31:04+00:00
   platform:
     darwin/arm64:
       name:  himalaya.aarch64-darwin.tgz
