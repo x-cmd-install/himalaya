@@ -4,7 +4,7 @@
 
 CLI to manage emails
 
-![himalaya](https://repo.x-cmd.io/himalaya.svg)
+![himalaya](https://repo.x-cmd.io/himalaya.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,24 @@ x install himalaya
 - **最新版本**: `v2.1.0` (2026-08-16)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-08-16T20:04:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [himalaya.aarch64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.aarch64-darwin.tgz) | 5.5 MiB | `native/darwin/arm64` |
+| [himalaya.aarch64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.aarch64-linux.tgz) | 6.0 MiB | `native/linux/arm64` |
+| [himalaya.armv6l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.armv6l-linux.tgz) | 6.1 MiB | `native/linux/arm` |
+| [himalaya.armv7l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.armv7l-linux.tgz) | 6.1 MiB | `native/linux/arm` |
+| [himalaya.i686-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.i686-linux.tgz) | 6.1 MiB | `native/linux/x86` |
+| [himalaya.x86_64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-darwin.tgz) | 6.1 MiB | `native/darwin/x64` |
+| [himalaya.x86_64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-linux.tgz) | 6.4 MiB | `native/linux/x64` |
+| [himalaya.x86_64-windows.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-windows.tgz) | 6.2 MiB | `native/win/x64` |
+| [himalaya.x86_64-windows.zip](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-windows.zip) | 18.1 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 7,215 · **Fork**: 235 · **开放 issue**: 518 · **贡献者**: 62
+- **Star**: 7,217 · **Fork**: 235 · **开放 issue**: 518 · **贡献者**: 62
 
 ## 累计统计
 
@@ -62,4 +75,4 @@ himalaya 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:00:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:48:21Z._
