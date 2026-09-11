@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.0"
   latestRelease: "v2.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:03:12Z
+  collectedAt: 2026-09-11T19:52:37Z
 timeline:
   created: 2020-12-23
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-16
   lastPrerelease: 
 popularity:
-  star: 7221
+  star: 7226
   watcher: 43
-  fork: 235
+  fork: 236
   release: 45
   contributor: 62
   pullRequest: 167
@@ -85,7 +85,7 @@ total:
   commit: 1179
 ---
 path: /home/runner/.x-repo/github.com/pimalaya/himalaya
-collectedAt: 2026-09-11T05:03:16Z
+collectedAt: 2026-09-11T19:52:41Z
 loc:
   Rust:
     code: 23245
