@@ -38,7 +38,7 @@ Total: **23,605** lines of code across **343** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,221 · **Forks**: 235 · **Open issues**: 518 · **Contributors**: 62
+- **Stars**: 7,226 · **Forks**: 236 · **Open issues**: 518 · **Contributors**: 62
 
 ## Totals (cumulative)
 
@@ -91,4 +91,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:03:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:52:58Z._
