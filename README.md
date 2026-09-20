@@ -4,7 +4,7 @@
 
 CLI to manage emails
 
-![himalaya](https://repo.x-cmd.io/himalaya.svg)
+[![x-cmd/install — himalaya Code Quality Monitoring Repo Card](https://repo.x-cmd.io/himalaya.svg)](https://x-cmd.com/install/himalaya)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **23,605** lines of code across **343** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,264 · **Forks**: 236 · **Open issues**: 524 · **Contributors**: 62
+- **Stars**: 7,276 · **Forks**: 236 · **Open issues**: 525 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 124 · **Open PRs**: 3 · **Closed issues**: 510 · **Open issues**: 14 · **Commits**: 1179
+- **Releases**: 45 · **Merged PRs**: 124 · **Open PRs**: 4 · **Closed issues**: 510 · **Open issues**: 15 · **Commits**: 1179
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 3 | 4 | 9 | 11 |
-| last60d | 2026-07-20 | 2 | 3 | 3 | 24 | 9 | 58 |
-| 90d | 2026-06-20 | 2 | 3 | 3 | 29 | 9 | 102 |
-| last180d | 2026-03-22 | 2 | 9 | 3 | 63 | 10 | 166 |
-| 360d | 2025-09-23 | 3 | 15 | 3 | 117 | 11 | 244 |
-| last720d | 2024-09-28 | 5 | 25 | 3 | 193 | 13 | 442 |
+| 30d | 2026-08-21 | 0 | 2 | 4 | 4 | 10 | 4 |
+| last60d | 2026-07-22 | 2 | 3 | 4 | 24 | 10 | 43 |
+| 90d | 2026-06-22 | 2 | 3 | 4 | 29 | 10 | 77 |
+| last180d | 2026-03-24 | 2 | 9 | 4 | 63 | 11 | 163 |
+| 360d | 2025-09-25 | 3 | 15 | 4 | 117 | 12 | 244 |
+| last720d | 2024-09-30 | 5 | 25 | 4 | 193 | 14 | 441 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:13:25Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:26:56Z._

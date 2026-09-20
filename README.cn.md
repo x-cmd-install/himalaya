@@ -4,7 +4,7 @@
 
 CLI to manage emails
 
-![himalaya](https://repo.x-cmd.io/himalaya.svg?lang=zh)
+[![x-cmd/install — himalaya Code Quality Monitoring Repo Card](https://repo.x-cmd.io/himalaya.svg?lang=zh)](https://x-cmd.com/install/himalaya)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install himalaya
 
 ## 流行度
 
-- **Star**: 7,264 · **Fork**: 236 · **开放 issue**: 524 · **贡献者**: 62
+- **Star**: 7,276 · **Fork**: 236 · **开放 issue**: 525 · **贡献者**: 62
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 124 · **开放 PR**: 3 · **已关闭 issue**: 510 · **开放 issue**: 14 · **提交数**: 1179
+- **发布数**: 45 · **已合并 PR**: 124 · **开放 PR**: 4 · **已关闭 issue**: 510 · **开放 issue**: 15 · **提交数**: 1179
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 3 | 4 | 9 | 11 |
-| last60d | 2026-07-20 | 2 | 3 | 3 | 24 | 9 | 58 |
-| 90d | 2026-06-20 | 2 | 3 | 3 | 29 | 9 | 102 |
-| last180d | 2026-03-22 | 2 | 9 | 3 | 63 | 10 | 166 |
-| 360d | 2025-09-23 | 3 | 15 | 3 | 117 | 11 | 244 |
-| last720d | 2024-09-28 | 5 | 25 | 3 | 193 | 13 | 442 |
+| 30d | 2026-08-21 | 0 | 2 | 4 | 4 | 10 | 4 |
+| last60d | 2026-07-22 | 2 | 3 | 4 | 24 | 10 | 43 |
+| 90d | 2026-06-22 | 2 | 3 | 4 | 29 | 10 | 77 |
+| last180d | 2026-03-24 | 2 | 9 | 4 | 63 | 11 | 163 |
+| 360d | 2025-09-25 | 3 | 15 | 4 | 117 | 12 | 244 |
+| last720d | 2024-09-30 | 5 | 25 | 4 | 193 | 14 | 441 |
 
 ## Release 资产
 
@@ -78,4 +78,4 @@ himalaya 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:13:26Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:26:57Z._
