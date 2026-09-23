@@ -4,7 +4,7 @@
 
 CLI to manage emails
 
-[![x-cmd/install — himalaya Code Quality Monitoring Repo Card](https://repo.x-cmd.io/himalaya.svg)](https://x-cmd.com/install/himalaya)
+[![x-cmd/install — himalaya Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/himalaya.svg)](https://x-cmd.com/install/himalaya)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **23,605** lines of code across **343** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,296 · **Forks**: 236 · **Open issues**: 525 · **Contributors**: 62
+- **Stars**: 7,307 · **Forks**: 238 · **Open issues**: 525 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 124 · **Open PRs**: 4 · **Closed issues**: 510 · **Open issues**: 15 · **Commits**: 1179
+- **Releases**: 45 · **Merged PRs**: 124 · **Open PRs**: 5 · **Closed issues**: 510 · **Open issues**: 15 · **Commits**: 1179
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 4 | 3 | 10 | 4 |
-| last60d | 2026-07-24 | 2 | 3 | 4 | 24 | 10 | 43 |
-| 90d | 2026-06-24 | 2 | 3 | 4 | 29 | 10 | 77 |
-| last180d | 2026-03-26 | 2 | 9 | 4 | 62 | 11 | 163 |
-| 360d | 2025-09-27 | 3 | 15 | 4 | 117 | 12 | 244 |
-| last720d | 2024-10-02 | 5 | 25 | 4 | 193 | 14 | 441 |
+| 30d | 2026-08-24 | 0 | 1 | 5 | 3 | 10 | 4 |
+| last60d | 2026-07-25 | 2 | 3 | 5 | 24 | 10 | 43 |
+| 90d | 2026-06-25 | 2 | 3 | 5 | 29 | 10 | 77 |
+| last180d | 2026-03-27 | 2 | 9 | 5 | 62 | 11 | 163 |
+| 360d | 2025-09-28 | 3 | 15 | 5 | 117 | 12 | 244 |
+| last720d | 2024-10-03 | 5 | 25 | 5 | 192 | 14 | 441 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:13:42Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:25:52Z._
