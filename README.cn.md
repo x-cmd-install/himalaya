@@ -14,11 +14,11 @@ x install himalaya
 
 ## 代码洞察
 
-合计: **26,461** 行代码（覆盖前 5 种语言、共 **366** 个文件）。
+合计: **26,459** 行代码（覆盖前 5 种语言、共 **366** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 26,080 | 233 | 3,919 | 357 |
+| Rust | 26,078 | 233 | 3,918 | 357 |
 | Nix | 132 | 3 | 15 | 3 |
 | Toml | 105 | 452 | 114 | 3 |
 | Svg | 101 | 0 | 0 | 2 |
@@ -32,42 +32,42 @@ x install himalaya
 
 ## 发布
 
-- **最新版本**: `v2.1.0` (2026-08-16)
-- **最近提交**: 2026-10-01
+- **最新版本**: `v2.2.1` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 7,380 · **Fork**: 247 · **开放 issue**: 528 · **贡献者**: 68
+- **Star**: 7,381 · **Fork**: 249 · **开放 issue**: 528 · **贡献者**: 69
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 130 · **开放 PR**: 0 · **已关闭 issue**: 526 · **开放 issue**: 2 · **提交数**: 1211
+- **发布数**: 47 · **已合并 PR**: 131 · **开放 PR**: 1 · **已关闭 issue**: 526 · **开放 issue**: 2 · **提交数**: 1216
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 7 | 0 | 13 | 0 | 31 |
-| last60d | 2026-08-03 | 1 | 8 | 0 | 24 | 0 | 72 |
-| 90d | 2026-07-04 | 2 | 9 | 0 | 40 | 0 | 101 |
-| last180d | 2026-04-05 | 2 | 15 | 0 | 71 | 0 | 187 |
-| 360d | 2025-10-07 | 3 | 21 | 0 | 131 | 1 | 276 |
-| last720d | 2024-10-12 | 5 | 31 | 0 | 207 | 2 | 473 |
+| 30d | 2026-09-03 | 2 | 8 | 1 | 11 | 0 | 36 |
+| last60d | 2026-08-04 | 3 | 9 | 1 | 22 | 0 | 77 |
+| 90d | 2026-07-05 | 4 | 10 | 1 | 40 | 0 | 106 |
+| last180d | 2026-04-06 | 4 | 16 | 1 | 71 | 0 | 192 |
+| 360d | 2025-10-08 | 5 | 22 | 1 | 131 | 1 | 281 |
+| last720d | 2024-10-13 | 7 | 32 | 1 | 206 | 2 | 478 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [himalaya.aarch64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.aarch64-darwin.tgz) | 5.5 MiB | `native/darwin/arm64` |
-| [himalaya.aarch64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.aarch64-linux.tgz) | 6.0 MiB | `native/linux/arm64` |
-| [himalaya.armv6l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.armv6l-linux.tgz) | 6.1 MiB | `native/linux/arm` |
-| [himalaya.armv7l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.armv7l-linux.tgz) | 6.1 MiB | `native/linux/arm` |
-| [himalaya.i686-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.i686-linux.tgz) | 6.1 MiB | `native/linux/x86` |
-| [himalaya.x86_64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-darwin.tgz) | 6.1 MiB | `native/darwin/x64` |
-| [himalaya.x86_64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-linux.tgz) | 6.4 MiB | `native/linux/x64` |
-| [himalaya.x86_64-windows.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-windows.tgz) | 6.2 MiB | `native/win/x64` |
-| [himalaya.x86_64-windows.zip](https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-windows.zip) | 18.1 MiB | `native/win/x64` |
+| [himalaya.aarch64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.aarch64-darwin.tgz) | 5.9 MiB | `native/darwin/arm64` |
+| [himalaya.aarch64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.aarch64-linux.tgz) | 6.4 MiB | `native/linux/arm64` |
+| [himalaya.armv6l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.armv6l-linux.tgz) | 6.5 MiB | `native/linux/arm` |
+| [himalaya.armv7l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.armv7l-linux.tgz) | 6.5 MiB | `native/linux/arm` |
+| [himalaya.i686-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.i686-linux.tgz) | 6.5 MiB | `native/linux/x86` |
+| [himalaya.x86_64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-darwin.tgz) | 6.6 MiB | `native/darwin/x64` |
+| [himalaya.x86_64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-linux.tgz) | 6.8 MiB | `native/linux/x64` |
+| [himalaya.x86_64-windows.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.tgz) | 6.5 MiB | `native/win/x64` |
+| [himalaya.x86_64-windows.zip](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.zip) | 19.0 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ himalaya 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T05:50:32Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:41:10Z._
