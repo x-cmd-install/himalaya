@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6170408,
       "digest": "sha256:a5d97a1f7bbca45e58bddde3f9f17325f614c9cd6d5f17fabf38ddcb030869ab",
-      "download_count": 381,
+      "download_count": 449,
       "created_at": "2026-10-02T11:35:42Z",
       "updated_at": "2026-10-02T11:35:43Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.aarch64-darwin.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6685201,
       "digest": "sha256:1dc21c3dd6d948929e22e5cae49b9d0b3b30ff88fafd4493fd4460c6252e9d90",
-      "download_count": 407,
+      "download_count": 489,
       "created_at": "2026-10-02T11:36:35Z",
       "updated_at": "2026-10-02T11:36:35Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.aarch64-linux.tgz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6867860,
       "digest": "sha256:8d746bb83da777ea2b748ef04ec930df301c02113ccaa493bb0719b3b93687a5",
-      "download_count": 27,
+      "download_count": 33,
       "created_at": "2026-10-02T11:37:03Z",
       "updated_at": "2026-10-02T11:37:04Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.armv6l-linux.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6775299,
       "digest": "sha256:fa3fc7da638dba3fb0844e9b445c0d0b2d08fe8448e535c7fef0ef11be1e73d6",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-10-02T11:36:48Z",
       "updated_at": "2026-10-02T11:36:48Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.armv7l-linux.tgz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6788409,
       "digest": "sha256:ef9fdf4e41b66a10de5093a235ea8b91110ab15e51f107326efcbafbe3848510",
-      "download_count": 43,
+      "download_count": 54,
       "created_at": "2026-10-02T11:32:43Z",
       "updated_at": "2026-10-02T11:32:44Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.i686-linux.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6969056,
       "digest": "sha256:24e226bc6bccfeadc89608953ffc0fcb46623d1d4cd4689734cbace243cc8d2e",
-      "download_count": 143,
+      "download_count": 172,
       "created_at": "2026-10-02T11:40:42Z",
       "updated_at": "2026-10-02T11:40:43Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-darwin.tgz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7155920,
       "digest": "sha256:5c5ba2724c162f82d0a0c71b6c03224ed44f8bef7b14ace5da0635d3af2665a0",
-      "download_count": 2602,
+      "download_count": 3293,
       "created_at": "2026-10-02T11:26:57Z",
       "updated_at": "2026-10-02T11:26:58Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-linux.tgz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6786342,
       "digest": "sha256:abea8ecbca5fbd566860941bbab91e40f1dde57e737091a451208b8c61b99523",
-      "download_count": 456,
+      "download_count": 557,
       "created_at": "2026-10-02T11:37:02Z",
       "updated_at": "2026-10-02T11:37:03Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.tgz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 19932358,
       "digest": "sha256:34ef6f148834aeafa2c9a558ec144a678fb12dcfcc618786b0eaeceb52794e00",
-      "download_count": 629,
+      "download_count": 775,
       "created_at": "2026-10-02T11:37:02Z",
       "updated_at": "2026-10-02T11:37:03Z",
       "browser_download_url": "https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.zip"
