@@ -38,7 +38,7 @@ Total: **30,866** lines of code across **381** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,406 · **Forks**: 251 · **Open issues**: 529 · **Contributors**: 70
+- **Stars**: 7,412 · **Forks**: 251 · **Open issues**: 529 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **30,866** lines of code across **381** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 8 | 2 | 11 | 0 | 59 |
-| last60d | 2026-08-09 | 3 | 10 | 2 | 23 | 0 | 95 |
-| 90d | 2026-07-10 | 4 | 11 | 2 | 39 | 0 | 126 |
-| last180d | 2026-04-11 | 4 | 17 | 2 | 70 | 0 | 216 |
-| 360d | 2025-10-13 | 5 | 23 | 2 | 132 | 1 | 305 |
-| last720d | 2024-10-18 | 7 | 33 | 2 | 207 | 2 | 501 |
+| 30d | 2026-09-09 | 2 | 8 | 2 | 11 | 0 | 59 |
+| last60d | 2026-08-10 | 3 | 10 | 2 | 23 | 0 | 95 |
+| 90d | 2026-07-11 | 4 | 11 | 2 | 39 | 0 | 126 |
+| last180d | 2026-04-12 | 4 | 17 | 2 | 70 | 0 | 216 |
+| 360d | 2025-10-14 | 5 | 23 | 2 | 132 | 1 | 305 |
+| last720d | 2024-10-19 | 7 | 33 | 2 | 206 | 2 | 501 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:28:27Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:35:59Z._
