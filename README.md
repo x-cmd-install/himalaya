@@ -38,7 +38,7 @@ Total: **34,248** lines of code across **395** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,510 · **Forks**: 261 · **Open issues**: 541 · **Contributors**: 75
+- **Stars**: 7,519 · **Forks**: 261 · **Open issues**: 541 · **Contributors**: 75
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **34,248** lines of code across **395** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 17 | 1 | 13 | 3 | 88 |
-| last60d | 2026-08-23 | 2 | 22 | 1 | 26 | 3 | 96 |
-| 90d | 2026-07-24 | 4 | 23 | 1 | 47 | 3 | 142 |
-| last180d | 2026-04-25 | 4 | 29 | 1 | 73 | 3 | 242 |
-| 360d | 2025-10-27 | 5 | 35 | 1 | 140 | 4 | 334 |
-| last720d | 2024-11-01 | 7 | 45 | 1 | 211 | 5 | 517 |
+| 30d | 2026-09-23 | 2 | 17 | 1 | 13 | 3 | 88 |
+| last60d | 2026-08-24 | 2 | 21 | 1 | 26 | 3 | 96 |
+| 90d | 2026-07-25 | 4 | 23 | 1 | 47 | 3 | 142 |
+| last180d | 2026-04-26 | 4 | 29 | 1 | 73 | 3 | 242 |
+| 360d | 2025-10-28 | 5 | 35 | 1 | 140 | 4 | 334 |
+| last720d | 2024-11-02 | 7 | 45 | 1 | 211 | 5 | 517 |
 
 ## Release assets
 
@@ -69,6 +69,19 @@ Total: **34,248** lines of code across **395** files in the top 5 languages.
 | [himalaya.x86_64-windows.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.tgz) | 6.5 MiB | `native/win/x64` |
 | [himalaya.x86_64-windows.zip](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.zip) | 19.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **75** distros on [repology.org](https://repology.org/project/himalaya). **8** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.2.1` | ✅ latest |
+| Homebrew | `2.2.1` | ✅ latest |
+| Nix unstable | `2.2.1` | ✅ latest |
+| Void | `1.1.0` | ⚠️ outdated |
+| Alpine edge | `1.2.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.2.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `himalaya` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +91,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:58:32Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:09:15Z._
