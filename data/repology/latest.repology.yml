@@ -1,3 +1,52 @@
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.6.1
+  origversion: 0.6.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.6.0
+  origversion: 0.6.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.5.10
+  origversion: 0.5.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.5.9
+  origversion: 0.5.9-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: nix_stable_24_11
+  srcname: himalaya
+  visiblename: himalaya
+  version: 1.0.0-beta4
+  origversion: 1.0.0-beta.4
+  status: outdated
+  summary: CLI to manage emails
+  maintainers:
+    - clement.douin@posteo.net
+    - toastal+nix@posteo.net
+    - yanganto@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: himalaya
@@ -297,6 +346,15 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.7.0
+  origversion: 0.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_3_21
   subrepo: community
   srcname: himalaya
@@ -627,23 +685,25 @@
   srcname: himalaya
   binname: himalaya
   visiblename: himalaya
-  version: 0.9.0
-  origversion: 0.9.0-1
+  version: 2.1.0
+  origversion: 2.1.0-2
   status: outdated
   summary: A CLI email client
   licenses:
-    - BSD
+    - MIT
+    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: himalaya
   binname: himalaya
   visiblename: himalaya
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
+  version: 2.2.1
+  origversion: 2.2.1-2
+  status: newest
   summary: A CLI email client
   licenses:
-    - BSD
+    - MIT
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: himalaya
@@ -657,19 +717,6 @@
     - MIT
     - Apache-2.0
 - repo: nix_stable_24_05
-  srcname: himalaya
-  visiblename: himalaya
-  version: 1.0.0-beta4
-  origversion: 1.0.0-beta.4
-  status: outdated
-  summary: CLI to manage emails
-  maintainers:
-    - clement.douin@posteo.net
-    - toastal+nix@posteo.net
-    - yanganto@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
   srcname: himalaya
   visiblename: himalaya
   version: 1.0.0-beta4
@@ -853,51 +900,6 @@
   visiblename: himalaya
   version: 0.7.1
   origversion: 0.7.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.7.0
-  origversion: 0.7.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.6.1
-  origversion: 0.6.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.6.0
-  origversion: 0.6.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.5.10
-  origversion: 0.5.10-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.5.9
-  origversion: 0.5.9-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
