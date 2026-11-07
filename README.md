@@ -14,11 +14,11 @@ x install himalaya
 
 ## Code insight
 
-Total: **43,992** lines of code across **423** files in the top 5 languages.
+Total: **44,076** lines of code across **423** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 43,601 | 406 | 5,725 | 414 |
+| Rust | 43,685 | 407 | 5,730 | 414 |
 | Nix | 133 | 3 | 16 | 3 |
 | Toml | 114 | 461 | 116 | 3 |
 | Svg | 101 | 0 | 0 | 2 |
@@ -33,27 +33,27 @@ Total: **43,992** lines of code across **423** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.1` (2026-10-02)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 7,595 · **Forks**: 266 · **Open issues**: 546 · **Contributors**: 78
+- **Stars**: 7,599 · **Forks**: 268 · **Open issues**: 546 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 147 · **Open PRs**: 0 · **Closed issues**: 538 · **Open issues**: 8 · **Commits**: 1295
+- **Releases**: 47 · **Merged PRs**: 147 · **Open PRs**: 3 · **Closed issues**: 540 · **Open issues**: 6 · **Commits**: 1296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 13 | 0 | 12 | 6 | 55 |
-| last60d | 2026-09-07 | 2 | 24 | 0 | 23 | 6 | 114 |
-| 90d | 2026-08-08 | 3 | 25 | 0 | 34 | 6 | 154 |
-| last180d | 2026-05-10 | 4 | 32 | 0 | 70 | 6 | 265 |
-| 360d | 2025-11-11 | 5 | 38 | 0 | 140 | 7 | 360 |
-| last720d | 2024-11-16 | 7 | 48 | 0 | 205 | 8 | 541 |
+| 30d | 2026-10-08 | 0 | 13 | 3 | 13 | 5 | 56 |
+| last60d | 2026-09-08 | 2 | 23 | 3 | 24 | 5 | 115 |
+| 90d | 2026-08-09 | 3 | 25 | 3 | 35 | 5 | 155 |
+| last180d | 2026-05-11 | 4 | 32 | 3 | 71 | 5 | 266 |
+| 360d | 2025-11-12 | 5 | 38 | 3 | 142 | 5 | 361 |
+| last720d | 2024-11-17 | 7 | 48 | 3 | 207 | 6 | 542 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **43,992** lines of code across **423** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **75** distros on [repology.org](https://repology.org/project/himalaya). **8** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
+Reported by **75** distros on [repology.org](https://repology.org/project/himalaya). **9** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:58:29Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:12:34Z._
