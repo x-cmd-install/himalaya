@@ -1,40 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: himalaya
-  binname: himalaya
-  visiblename: himalaya
-  version: 2.2.1
-  origversion: 2.2.1-2
-  status: newest
-  summary: A CLI email client
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-doc
-  visiblename: himalaya-doc
-  version: 0.7.3
-  origversion: 0.7.3-r1
-  status: outdated
-  summary: CLI email client (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: himalaya
-  binname: himalaya
-  visiblename: himalaya
-  version: 2.2.1
-  origversion: 2.2.1-2
-  status: newest
-  summary: A CLI email client
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: himalaya
@@ -100,13 +63,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: chocolatey
-  binname: himalaya
-  visiblename: Himalaya
-  version: 2.2.1
-  origversion: null
-  status: newest
-  summary: CLI to manage emails
 - repo: alpine_3_18
   subrepo: community
   srcname: himalaya
@@ -116,110 +72,6 @@
   origversion: 0.7.3-r1
   status: outdated
   summary: Bash completions for himalaya
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-fish-completion
-  visiblename: himalaya-fish-completion
-  version: 0.7.3
-  origversion: 0.7.3-r1
-  status: outdated
-  summary: Fish completions for himalaya
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-zsh-completion
-  visiblename: himalaya-zsh-completion
-  version: 0.7.3
-  origversion: 0.7.3-r1
-  status: outdated
-  summary: Zsh completions for himalaya
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.9.0
-  origversion: 0.9.0-r0
-  status: outdated
-  summary: CLI email client
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-bash-completion
-  visiblename: himalaya-bash-completion
-  version: 0.9.0
-  origversion: 0.9.0-r0
-  status: outdated
-  summary: Bash completions for himalaya
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-doc
-  visiblename: himalaya-doc
-  version: 0.9.0
-  origversion: 0.9.0-r0
-  status: outdated
-  summary: CLI email client (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-fish-completion
-  visiblename: himalaya-fish-completion
-  version: 0.9.0
-  origversion: 0.9.0-r0
-  status: outdated
-  summary: Fish completions for himalaya
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya-zsh-completion
-  visiblename: himalaya-zsh-completion
-  version: 0.9.0
-  origversion: 0.9.0-r0
-  status: outdated
-  summary: Zsh completions for himalaya
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: himalaya
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.9.0
-  origversion: 0.9.0-r0
-  status: outdated
-  summary: CLI email client
   maintainers:
     - michal@polanski.me
   licenses:
@@ -231,6 +83,132 @@
   origversion: null
   status: newest
   summary: CLI email client written in Rust
+- repo: alpine_3_18
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-doc
+  visiblename: himalaya-doc
+  version: 0.7.3
+  origversion: 0.7.3-r1
+  status: outdated
+  summary: CLI email client (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-fish-completion
+  visiblename: himalaya-fish-completion
+  version: 0.7.3
+  origversion: 0.7.3-r1
+  status: outdated
+  summary: Fish completions for himalaya
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.5.9
+  origversion: 0.5.9-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_18
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-zsh-completion
+  visiblename: himalaya-zsh-completion
+  version: 0.7.3
+  origversion: 0.7.3-r1
+  status: outdated
+  summary: Zsh completions for himalaya
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: outdated
+  summary: CLI email client
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-bash-completion
+  visiblename: himalaya-bash-completion
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: outdated
+  summary: Bash completions for himalaya
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-doc
+  visiblename: himalaya-doc
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: outdated
+  summary: CLI email client (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-fish-completion
+  visiblename: himalaya-fish-completion
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: outdated
+  summary: Fish completions for himalaya
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya-zsh-completion
+  visiblename: himalaya-zsh-completion
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: outdated
+  summary: Zsh completions for himalaya
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: himalaya
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.9.0
+  origversion: 0.9.0-r0
+  status: outdated
+  summary: CLI email client
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: himalaya
@@ -244,6 +222,18 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: pkgsrc_2026_3
+  srcname: mail/himalaya
+  binname: himalaya
+  visiblename: mail/himalaya
+  version: 2.1.0
+  origversion: 2.1.0nb1
+  status: outdated
+  summary: Command-line interface for email management
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - mail
 - repo: alpine_3_20
   subrepo: community
   srcname: himalaya
@@ -632,6 +622,29 @@
     - yrncollo@aur
   licenses:
     - MIT
+- repo: chocolatey
+  binname: himalaya
+  visiblename: Himalaya
+  version: 2.2.1
+  origversion: null
+  status: newest
+  summary: CLI to manage emails
+- repo: crates_io
+  srcname: himalaya
+  visiblename: himalaya
+  version: 2.2.1
+  origversion: null
+  status: newest
+  summary: CLI to manage emails
+- repo: wakemeops
+  subrepo: terminal
+  binname: himalaya
+  visiblename: himalaya
+  version: 0.5.8
+  origversion: 0.5.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: macports
   srcname: mail/himalaya
   binname: himalaya
@@ -654,6 +667,30 @@
   version: 2.1.0
   origversion: 2.1.0-2
   status: outdated
+  summary: A CLI email client
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: himalaya
+  binname: himalaya
+  visiblename: himalaya
+  version: 2.2.1
+  origversion: 2.2.1-2
+  status: newest
+  summary: A CLI email client
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: himalaya
+  binname: himalaya
+  visiblename: himalaya
+  version: 2.2.1
+  origversion: 2.2.1-2
+  status: newest
   summary: A CLI email client
   licenses:
     - MIT
@@ -794,18 +831,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - mail
-- repo: pkgsrc_2026_3
-  srcname: mail/himalaya
-  binname: himalaya
-  visiblename: mail/himalaya
-  version: 2.1.0
-  origversion: 2.1.0nb1
-  status: outdated
-  summary: Command-line interface for email management
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - mail
 - repo: pkgsrc_current
   srcname: mail/himalaya
   binname: himalaya
@@ -891,24 +916,6 @@
   visiblename: himalaya
   version: 0.5.10
   origversion: 0.5.10-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.5.9
-  origversion: 0.5.9-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: himalaya
-  visiblename: himalaya
-  version: 0.5.8
-  origversion: 0.5.8-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
