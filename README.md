@@ -14,15 +14,15 @@ x install himalaya
 
 ## Code insight
 
-Total: **50,109** lines of code across **426** files in the top 5 languages.
+Total: **55,193** lines of code across **437** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 49,713 | 465 | 6,688 | 417 |
-| Nix | 134 | 3 | 16 | 3 |
-| Toml | 112 | 90 | 27 | 3 |
+| Rust | 54,641 | 496 | 7,415 | 426 |
+| Sh | 182 | 30 | 42 | 2 |
+| Nix | 164 | 34 | 23 | 4 |
+| Toml | 105 | 90 | 26 | 3 |
 | Svg | 101 | 0 | 0 | 2 |
-| Sh | 49 | 1 | 15 | 1 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **50,109** lines of code across **426** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.1` (2026-10-02)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 7,652 · **Forks**: 270 · **Open issues**: 550 · **Contributors**: 81
+- **Stars**: 7,659 · **Forks**: 270 · **Open issues**: 551 · **Contributors**: 81
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 548 · **Open issues**: 2 · **Commits**: 1353
+- **Releases**: 47 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 550 · **Open issues**: 1 · **Commits**: 1378
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 7 | 0 | 11 | 1 | 84 |
-| last60d | 2026-09-16 | 2 | 25 | 0 | 25 | 1 | 172 |
-| 90d | 2026-08-17 | 2 | 29 | 0 | 39 | 1 | 182 |
-| last180d | 2026-05-19 | 4 | 36 | 0 | 77 | 1 | 303 |
-| 360d | 2025-11-20 | 5 | 42 | 0 | 149 | 1 | 418 |
-| last720d | 2024-11-25 | 7 | 50 | 0 | 215 | 2 | 548 |
+| 30d | 2026-10-17 | 0 | 7 | 0 | 13 | 0 | 109 |
+| last60d | 2026-09-17 | 2 | 25 | 0 | 27 | 0 | 197 |
+| 90d | 2026-08-18 | 2 | 29 | 0 | 40 | 0 | 207 |
+| last180d | 2026-05-20 | 4 | 36 | 0 | 78 | 0 | 328 |
+| 360d | 2025-11-21 | 5 | 42 | 0 | 151 | 0 | 443 |
+| last720d | 2024-11-26 | 7 | 50 | 0 | 217 | 1 | 524 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:58:09Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:50:33Z._
