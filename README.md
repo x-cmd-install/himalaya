@@ -14,14 +14,14 @@ x install himalaya
 
 ## Code insight
 
-Total: **60,199** lines of code across **448** files in the top 5 languages.
+Total: **58,983** lines of code across **444** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 59,643 | 0 | 8,030 | 437 |
+| Rust | 58,425 | 0 | 7,849 | 433 |
 | Sh | 182 | 30 | 42 | 2 |
 | Nix | 164 | 34 | 23 | 4 |
-| Toml | 109 | 94 | 28 | 3 |
+| Toml | 111 | 94 | 29 | 3 |
 | Svg | 101 | 0 | 0 | 2 |
 
 ## Source
@@ -38,22 +38,22 @@ Total: **60,199** lines of code across **448** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,685 · **Forks**: 272 · **Open issues**: 552 · **Contributors**: 81
+- **Stars**: 7,689 · **Forks**: 272 · **Open issues**: 552 · **Contributors**: 81
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 552 · **Open issues**: 0 · **Commits**: 1406
+- **Releases**: 47 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 552 · **Open issues**: 0 · **Commits**: 1407
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 6 | 0 | 11 | 0 | 137 |
-| last60d | 2026-09-22 | 2 | 24 | 0 | 27 | 0 | 225 |
-| 90d | 2026-08-23 | 2 | 29 | 0 | 40 | 0 | 235 |
-| last180d | 2026-05-25 | 4 | 34 | 0 | 77 | 0 | 356 |
-| 360d | 2025-11-26 | 5 | 42 | 0 | 151 | 0 | 471 |
-| last720d | 2024-12-01 | 7 | 49 | 0 | 217 | 0 | 509 |
+| 30d | 2026-10-23 | 0 | 6 | 0 | 11 | 0 | 138 |
+| last60d | 2026-09-23 | 2 | 24 | 0 | 27 | 0 | 226 |
+| 90d | 2026-08-24 | 2 | 28 | 0 | 40 | 0 | 236 |
+| last180d | 2026-05-26 | 4 | 34 | 0 | 77 | 0 | 357 |
+| 360d | 2025-11-27 | 5 | 42 | 0 | 151 | 0 | 472 |
+| last720d | 2024-12-02 | 7 | 49 | 0 | 217 | 0 | 510 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:48:01Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:06:54Z._
