@@ -14,11 +14,11 @@ x install himalaya
 
 ## Code insight
 
-Total: **59,515** lines of code across **445** files in the top 5 languages.
+Total: **60,112** lines of code across **446** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 58,959 | 0 | 7,918 | 434 |
+| Rust | 59,556 | 0 | 7,978 | 435 |
 | Sh | 182 | 30 | 42 | 2 |
 | Nix | 164 | 34 | 23 | 4 |
 | Toml | 109 | 94 | 28 | 3 |
@@ -32,55 +32,55 @@ Total: **59,515** lines of code across **445** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.2.1` (2026-10-02)
-- **Last commit**: 2026-11-25
+- **Latest**: `v3.0.0` (2026-11-26)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 7,709 · **Forks**: 273 · **Open issues**: 553 · **Contributors**: 81
+- **Stars**: 7,721 · **Forks**: 273 · **Open issues**: 553 · **Contributors**: 81
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 553 · **Open issues**: 0 · **Commits**: 1433
+- **Releases**: 48 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 553 · **Open issues**: 0 · **Commits**: 1440
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 6 | 0 | 12 | 0 | 0 |
-| last60d | 2026-09-27 | 2 | 22 | 0 | 26 | 0 | 0 |
-| 90d | 2026-08-28 | 2 | 28 | 0 | 38 | 0 | 0 |
-| last180d | 2026-05-30 | 4 | 34 | 0 | 76 | 0 | 0 |
-| 360d | 2025-12-01 | 5 | 42 | 0 | 152 | 0 | 0 |
-| last720d | 2024-12-06 | 7 | 47 | 0 | 215 | 0 | 533 |
+| 30d | 2026-10-28 | 1 | 6 | 0 | 11 | 0 | 169 |
+| last60d | 2026-09-28 | 3 | 21 | 0 | 26 | 0 | 240 |
+| 90d | 2026-08-29 | 3 | 28 | 0 | 38 | 0 | 260 |
+| last180d | 2026-05-31 | 5 | 34 | 0 | 76 | 0 | 377 |
+| 360d | 2025-12-02 | 6 | 42 | 0 | 152 | 0 | 505 |
+| last720d | 2024-12-07 | 8 | 47 | 0 | 215 | 0 | 540 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [himalaya.aarch64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.aarch64-darwin.tgz) | 5.9 MiB | `native/darwin/arm64` |
-| [himalaya.aarch64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.aarch64-linux.tgz) | 6.4 MiB | `native/linux/arm64` |
-| [himalaya.armv6l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.armv6l-linux.tgz) | 6.5 MiB | `native/linux/arm` |
-| [himalaya.armv7l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.armv7l-linux.tgz) | 6.5 MiB | `native/linux/arm` |
-| [himalaya.i686-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.i686-linux.tgz) | 6.5 MiB | `native/linux/x86` |
-| [himalaya.x86_64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-darwin.tgz) | 6.6 MiB | `native/darwin/x64` |
-| [himalaya.x86_64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-linux.tgz) | 6.8 MiB | `native/linux/x64` |
-| [himalaya.x86_64-windows.tgz](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.tgz) | 6.5 MiB | `native/win/x64` |
-| [himalaya.x86_64-windows.zip](https://github.com/pimalaya/himalaya/releases/download/v2.2.1/himalaya.x86_64-windows.zip) | 19.0 MiB | `native/win/x64` |
+| [himalaya.aarch64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.aarch64-darwin.tgz) | 8.4 MiB | `native/darwin/arm64` |
+| [himalaya.aarch64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.aarch64-linux.tgz) | 9.0 MiB | `native/linux/arm64` |
+| [himalaya.armv6l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.armv6l-linux.tgz) | 9.3 MiB | `native/linux/arm` |
+| [himalaya.armv7l-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.armv7l-linux.tgz) | 9.1 MiB | `native/linux/arm` |
+| [himalaya.i686-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.i686-linux.tgz) | 9.2 MiB | `native/linux/x86` |
+| [himalaya.x86_64-darwin.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.x86_64-darwin.tgz) | 9.5 MiB | `native/darwin/x64` |
+| [himalaya.x86_64-linux.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.x86_64-linux.tgz) | 9.7 MiB | `native/linux/x64` |
+| [himalaya.x86_64-windows.tgz](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.x86_64-windows.tgz) | 9.5 MiB | `native/win/x64` |
+| [himalaya.x86_64-windows.zip](https://github.com/pimalaya/himalaya/releases/download/v3.0.0/himalaya.x86_64-windows.zip) | 10.0 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/himalaya). **11** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **77** distros on [repology.org](https://repology.org/project/himalaya). **4** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2.2.1` | ✅ latest |
-| Homebrew | `2.2.1` | ✅ latest |
-| Nix unstable | `2.2.1` | ✅ latest |
+| Arch | `2.2.1` | ⚠️ outdated |
+| Homebrew | `3.0.0` | ✅ latest |
+| Nix unstable | `2.2.1` | ⚠️ outdated |
 | Void | `1.1.0` | ⚠️ outdated |
 | Alpine edge | `1.2.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.2.1` | ✅ latest |
+| openSUSE Tumbleweed | `2.2.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for himalaya lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:35:24Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:37:14Z._
